@@ -76,7 +76,6 @@ if __name__ == '__main__':
 
         theta = model(batch)
         result = np.array(theta.squeeze().cpu().detach())
-        print(result * 180 / 3.14)
 
 
         # scipy.io.savemat('./results/result_' + ID1 + '.mat', {'result': result })
