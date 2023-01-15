@@ -22,3 +22,6 @@ https://drive.google.com/file/d/1xnFJtXJxp6N9NGPoineSpkXJSWQq5f8y/view?usp=share
 
 sample_8antennas.json is the inventory dataset.
 https://drive.google.com/file/d/1UGRFmVTUYrCcJtxeVrIszXD1gXAvY0c1/view?usp=share_link
+
+phase_mapping.json is the mapping table of phase's name and its phase
+https://drive.google.com/file/d/1Ku4PgpDMNKP3hRvJZveoPttHunGKxEUv/view?usp=share_link
